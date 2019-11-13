@@ -1,2 +1,14 @@
-search a element in a cyclic sorted array
+First interview question
+How to make a Java thread wait for another thread's output?
+difference between TCP, UDP
+difference between array and LinkedList
+binary search
+binary tree DFS and BFS
+what is the ipaddress )An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.)
+what is the http
+how the url works
+open ports
 
+Coding question:
+1 - Given two balanced binary trees, tree A and tree B, determine if B is a subset of A. Tree A has a very large number of nodes (e.g., 1 million), 
+and tree B has a much smaller amount of nodes (e.g., 1000)
